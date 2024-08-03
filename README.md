@@ -24,7 +24,14 @@ This project is a web-based application designed to manage books and reviews. It
 
 ## 📸 Screenshots
 
-![Homepage](screenshots/homepage.png)
-![Book List](screenshots/book_list.png)
-![Review Page](screenshots/review_page.png)
+![Home Page](https://github.com/zahidrahimoon/Book-Review-System/blob/master/screenshots/book.PNG)
+
+![ADD BOOk](https://github.com/zahidrahimoon/Book-Review-System/blob/master/screenshots/addbook.PNG)
+
+![Vieww BOOk](https://github.com/zahidrahimoon/Book-Review-System/blob/master/screenshots/viewbook.PNG)
+
+![View Review](https://github.com/zahidrahimoon/Book-Review-System/blob/master/screenshots/viewreview.PNG)
+
+![ADD Review](https://github.com/zahidrahimoon/Book-Review-System/blob/master/screenshots/addreview.PNG)
+
 
